@@ -33,3 +33,28 @@ The system allows:
 6 → Show Student Courses
 7 → Sort Students by GPA
 8 → Exit
+
+---
+
+🛠 🖥 Development Environment
+💻 IDE: Microsoft Visual Studio  
+🔢 Version: 2022 / 2026 (Community Edition)  
+⚙️ Language Standard: C++17 (MSVC)
+
+---
+
+📋 💻 Requirements
+To build and run this project:
+
+🪟 Windows OS  
+🧰 Microsoft Visual Studio Community  
+📦 C++ Desktop Development workload installed  
+
+---
+
+▶️ 🚀 How to Build and Run
+1. Open the solution file: `projectstudent.slnx`  
+2. Click **Build → Build Solution**  
+3. Press **Ctrl + F5** to run without debugging  
+
+
